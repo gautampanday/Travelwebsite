@@ -1,0 +1,197 @@
+html, body{
+  height: 100%;
+}
+a{
+  text-decoration: none;
+  color: #fff;
+}
+a:hover{
+  text-decoration: none;
+  color: #fff;
+}
+.table-display{
+  display: table;
+}
+.w-h-100{
+  width: 100%;
+  height: 100%;
+}
+.flags-position{
+  height: 600px;
+}
+.verticle-center{
+  vertical-align: middle;
+  display: table-cell;
+}
+.mrb-90{
+  margin-bottom: 90px;
+}
+.full-bg{
+  background: linear-gradient(to top, rgba(0, 0, 0, .5), 
+    rgba(0, 0, 0, 0)),url("../images/bg-language.jpg");
+  background-position: center;
+  height: 100%;
+
+}
+.logo-reposition{
+  position: absolute;
+  top: 0;
+  left: 124px;
+  height: 100px;
+}
+.text-white{
+  color: #fff;
+}
+.text-bg{
+  background-color: rgba(0,0,0,0.4);
+}
+.img-reheight{
+  height: 175px;
+}
+.navbar{
+  min-height: 70px;
+  background-color: #fff;
+  border-color: #e7e7e7;
+  margin-bottom: 0;
+}
+.logo-nav{
+  height: 65px;
+}
+.logo-reposition {
+  animation: scaling 5s infinite alternate;
+  -webkit-animation: scaling 5s infinite alternate;
+}
+@-webkit-keyframes scaling {
+From {
+    -webkit-transform: scale(1.0);
+    -moz-transform: scale(1.0);
+       -o-transform: scale(1.0);
+          transform: scale(1.0);
+}
+To {
+    -webkit-transform: scale(1.2);
+    -moz-transform: scale(1.2);
+       -o-transform: scale(1.2);
+          transform: scale(1.2);
+}
+}
+.navbar-brand{
+  height: 70px;
+  padding:  0 15px;
+}
+.navbar-nav>li>a{
+  padding-top: 27px;
+}
+.banner-height{
+  background-size: cover;
+  min-height: 580px;
+  width: 100%;
+  
+}
+.banner1{
+  background-image: linear-gradient(to top, rgba(0, 0, 0, .5), 
+    rgba(0, 0, 0, 0)),url("../images/banner1.jpg");
+  background-position:25% 75%;
+}
+.banner2{
+  background-image: linear-gradient(to top, rgba(0, 0, 0, .5), 
+    rgba(0, 0, 0, 0)),url("../images/banner2.jpg");
+  background-position:25% 75%;
+}
+.section-spaces{
+  padding: 60px 0;
+}
+.itinerary{
+  background: linear-gradient(to top, rgba(0, 0, 0, .5), 
+    rgba(0, 0, 0, 0)),url("../images/itenarary.jpg") no-repeat;
+      height: 180px;
+}
+.offers{
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.5), 
+    rgba(0, 0, 0, 0)),url("../images/offers.jpg") no-repeat;
+    height: 180px;
+}
+.gallery{
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.5), 
+    rgba(0, 0, 0, 0)),url("../images/gallery.png") no-repeat;
+    height: 180px;
+}
+.festival{
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.5), 
+    rgba(0, 0, 0, 0)),url("../images/festival.jpg") no-repeat;
+    height: 180px;
+}
+.important{
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.5), 
+    rgba(0, 0, 0, 0)),url("../images/important.jpg") no-repeat;
+    height: 180px;
+}
+.common-bg{
+  width: 95%;
+    margin: 2.5% 6.45161% 2.5% 0;
+    color: #fff;
+    background-size: cover;
+    float: left;
+    cursor: pointer;
+    background-color: #555;
+    overflow: hidden;
+    background-position: 50% 0%;
+}
+.tajmahal{
+  background: linear-gradient(to top, rgba(0, 0, 0, .5), 
+    rgba(0, 0, 0, 0)),url("../images/tajmahal.jpg") no-repeat;
+    height: 326px;
+    
+}
+.nepal{
+  background: linear-gradient(to top, rgba(0, 0, 0, .5), 
+    rgba(0, 0, 0, 0)),url("../images/nepal.jpg") no-repeat;
+    height: 326px;
+}
+.dubai{
+  background: linear-gradient(to top, rgba(0, 0, 0, 0), 
+    rgba(0, 0, 0, 0)),url("../images/dubai.jpg") no-repeat;
+    height: 326px;
+}
+.bhutan{
+  background: linear-gradient(to top, rgba(0, 0, 0, 0), 
+    rgba(0, 0, 0, 0)),url("../images/bhutan.jpg") no-repeat;
+    height: 326px;
+}
+.bangkok{
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.5), 
+    rgba(0, 0, 0, 0)),url("../images/bangkok.jpg") no-repeat;
+    height: 326px;
+}
+.copyright-info{
+      width: 100%;
+    float: left;
+    height: 35px;
+    background: #660066;
+    color: #FFFFFF;
+    font-size: 11px;
+    text-align: center;
+    line-height: 35px;
+}
+.margin-0{
+  margin: 0;
+}
+.search-form{
+  position: absolute;
+  top: 15%;
+  z-index: 15;
+  left: 10%;
+  padding: 30px;
+  background-color: rgba(0,0,0,0.4);
+  display: none;
+}
+.mrt-35{
+  margin-top: 35px;
+}
+.mrb-15{
+  margin-bottom: 15px;
+}
+.search-button{
+  background-color: transparent;
+  color: #fff;
+}
