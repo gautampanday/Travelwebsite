@@ -1,2 +1,2 @@
 # Travelwebsite
-<img src="http://imgur.com/SiAXRCx">
+<img src="http://i.imgur.com/SiAXRCx.jpg">
