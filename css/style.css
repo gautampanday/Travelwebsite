@@ -57,6 +57,12 @@ a:hover{
 .logo-nav{
   height: 65px;
 }
+.logo-resize{
+  height: 142px;
+   position: absolute;
+  top: 0;
+  left: 124px;
+}
 .logo-reposition {
   animation: scaling 5s infinite alternate;
   -webkit-animation: scaling 5s infinite alternate;
